@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notification - helloAppleWatch WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>helloAppleWatch WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>helloAppleWatch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +33,11 @@
 			<true/>
 		</dict>
 		<key>70288C881BC7BD57007FB970</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>70288CAD1BC7BD72007FB970</key>
 		<dict>
 			<key>primary</key>
 			<true/>
